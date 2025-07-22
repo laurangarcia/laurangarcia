@@ -7,7 +7,6 @@
 - 🎯 **Current Goal**: Become an AI Engineer 🤖  
 - 📚 **Currently Learning**: Python, Probability, and Statistics  
 
-Apasionada por la robótica, la automatización y la inteligencia artificial. Disfruto transformar ideas en proyectos funcionales que conecten el mundo físico con el digital. Mi propósito es diseñar soluciones tecnológicas con impacto social.
 
 ---
 
