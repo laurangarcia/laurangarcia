@@ -5,7 +5,7 @@
 - 📧 **Email**: laurangarciav02@gmail.com  
 - 🎓 **Background**: Electronic Engineering  
 - 🎯 **Current Goal**: Become an AI Engineer 🤖  
-- 📚 **Currently Learning**: Apache Airflow, Python software development
+- 📚 **Currently Learning**: Docker, Kafka and Pyspark
 
 
 ---
